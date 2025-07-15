@@ -20,4 +20,5 @@ Neste projeto, explorei os seguintes conceitos de programação em Java:
 1. O programa escolhe aleatoriamente um número entre 1 e 100.
 2. O usuário digita um palpite.
 3. O programa informa se o número é muito alto ou muito baixo.
-4. O processo se re
+4. O processo se repete até o usuário acertar.
+5. Ao final, o número de tentativas é exibido.
